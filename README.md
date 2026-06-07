@@ -1,4 +1,3 @@
-```md
 <h1 align="center">👋 Olá, eu sou Matheus Nicastro</h1>
 
 <p align="center">
