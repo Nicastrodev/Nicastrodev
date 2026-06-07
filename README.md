@@ -1,40 +1,111 @@
-# Matheus Nicastro
+<h1 align="center">Olá, eu sou Matheus Nicastro</h1>
 
-**Análise e Desenvolvimento de Sistemas - 2º Semestre**  
-Foco em desenvolvimento backend, bancos de dados e aplicações com inteligência artificial.
-
----
-
-## Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+<p align="center">
+  Desenvolvedor Full Stack focado em <strong>C#</strong>, <strong>.NET</strong>, <strong>React</strong> e <strong>SQL Server</strong>
 </p>
 
 ---
 
-## Atualmente
+## 🚀 Sobre mim
 
-- Estudando **JavaScript**, **SQL/NoSQL** e **IA**  
-- Desenvolvendo projetos práticos para consolidar aprendizado  
-- Interesse em arquitetura de software e escalabilidade  
+💻 Desenvolvedor apaixonado por tecnologia, automações e sistemas web  
+🛠️ Focado em desenvolvimento Full Stack utilizando tecnologias modernas  
+📚 Sempre estudando arquitetura de software, performance e escalabilidade  
+⚡ Criando sistemas, automações e soluções reais para empresas  
 
 ---
 
-## Contato
+# 🧠 Tecnologias
 
-<p align="left">
-  <a href="www.linkedin.com/in/matheus-nicastro" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" />
+## 🔹 Back-end
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs" />
+</p>
+
+- C#
+- .NET
+- ASP.NET Core
+- Entity Framework
+- APIs REST
+- JWT Authentication
+
+---
+
+## 🔹 Front-end
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,html,css" />
+</p>
+
+- React
+- TypeScript
+- JavaScript
+- Vite
+- HTML5
+- CSS3
+
+---
+
+## 🔹 Banco de Dados
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+- SQL Server
+- MySQL
+- Procedures
+- Modelagem de Banco
+- Relacionamentos SQL
+
+---
+
+## 🔹 Ferramentas
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
+</p>
+
+- Git & GitHub
+- VS Code
+- Postman
+- Figma
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🚀 Atualmente
+
+- 🔥 Desenvolvendo sistemas web completos
+- 📈 Aprendendo mais sobre arquitetura e escalabilidade
+- 💡 Explorando IA e integrações modernas
+
+---
+
+# 🌎 Contato
+
+<p>
+  <a href="https://github.com/Nicastrodev">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
+  </a>l
+
+  <a href="https://linkedin.com/in/matheus-nicastro">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="matheus.nicastro05@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" />
+
+  <a href="mailto:seuemail@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail">
   </a>
+</p>
+
+---
+
+<p align="center">
+  Sempre buscando evoluir como desenvolvedor e criar projetos cada vez melhores.
 </p>
